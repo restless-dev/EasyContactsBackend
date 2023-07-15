@@ -7,7 +7,7 @@ EasyContacts is an API that allows you to create, visualize, edit and delete con
 
 Clone the project:
 ```bash
-  git clone https://github.com/restless-dev/EasyContactsBackend
+git clone https://github.com/restless-dev/EasyContactsBackend.git
 ```
 
 *(check the **Configuring the .env** section)* Fill the .env file with your database info:
